@@ -29,7 +29,7 @@
   "repository" : {
     "type" : "git",
     "url": "ssh://git@github.com:bu-ist/responsive-foundation.git",
-    "directory": "css-dev/burf-tools"
+    "directory": "css-dev/burf-base"
   },
   "browserslist": [
     "> 1%",
