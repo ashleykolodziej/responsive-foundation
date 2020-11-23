@@ -11,15 +11,15 @@
     "bu",
     "foundation",
     "bootstrap",
-    "framework"
+    "framework",
   ],
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com",
   },
   "repository" : {
     "type" : "git",
     "url": "ssh://git@github.com:bu-ist/responsive-foundation.git",
-    "directory": "css-dev/burf-tools"
+    "directory": "burf-tools",
   },
   "dependencies": {
     "mathsass": "^0.10.1",
